@@ -6,5 +6,7 @@ python:alpine3.19
 yidadaa/chatgpt-next-web:v2.12.3
 zhangqinghua/fastgpt:master.20240620180058
 zhayujie/chatgpt-on-wechat:1.6.7
+langgenius/dify-api:57063095c13c1b140eb49d51946c3863b8be1099
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
